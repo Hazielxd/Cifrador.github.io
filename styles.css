@@ -1,0 +1,104 @@
+#Conteiner{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+#inputPalabra{
+    height: 100px;
+    width: 230px;
+    border: 5px #00ff00 solid;
+    color: green;
+    background-color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transform: scale(1.1);
+    font-size: 20px;
+}
+#botones{
+    margin-top: 25px;
+    margin-left: 90px;
+    background-color:#00ff00;
+    color:black;
+    width: 80px;
+    height: 30px;
+    border: 5px black solid;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+#botones:hover{
+    background-color:black;
+    transform: scale(1.1);
+    color: white;
+    border: 5px #00ff00 solid;
+
+    
+}
+#resultado{
+    height: 100px;
+    width: 230px;
+    border: 5px #00ff00 solid;
+    color: green;
+    background-color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transform: scale(1.1);
+    font-size: 20px;
+}
+
+#medium{
+    margin-left: 580px;
+    margin-top: -420px;
+}
+
+#subconteiner{
+    margin-left: 1000px;
+    margin-top: -115px;
+}
+#resultada{
+    height: 100px;
+    width: 230px;
+    border: 5px #00ff00 solid;
+    color: green;
+    background-color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transform: scale(1.1);
+    font-size: 20px;
+}
+#Palabra{
+    height: 100px;
+    width: 230px;
+    border: 5px #00ff00 solid;
+    color: green;
+    background-color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transform: scale(1.1);
+    font-size: 20px;
+}
+
+body{
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/708526305132654960/B48B2A593B7C76205C510AD1AA3200004C7D1486/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+}
+
+#letra{
+    color: #00ff00;
+    font-family: 'SF Pixelate', sans-serif;
+}
+#letra1{
+    color: #00ff00;
+    font-family: 'SF Pixelate', sans-serif;
+    margin-left: 30px;
+    margin-top: -30px;
+}
+#codigo{
+    border: 5px #00ff00 solid;
+    color: green;
+    background-color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+ 
